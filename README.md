@@ -22,7 +22,16 @@ Results of the initial analysis can be found in the attachments and links below.
 
 * and python analysis with pandas
 
-Future work:
+## Findings and conclusion
+The Karamoja sub-region is made up of seven districts with Kaabong having the biggest area (in heactares) and largest population while Abim had the smallest population.
+The analysis showed that there is a positive correlation between the crop area and and district area for th region.
+In general for the whole region there is a low positive correlation between the maize yield and sub-county population and negative correlation between sorghum yield and sub-county population.
+
+## Recommendations:
+
+More work needs to be done to figure out the underlying causes for a negative correlation between crop yield and subcounty population in the district of Abim.
+
+## Future work:
 
 * Study and visualize the correlation between the production area and each crop yield at sub-county and district level.
 
